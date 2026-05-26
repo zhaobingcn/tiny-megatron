@@ -1,4 +1,4 @@
-ni-Megatron PyTorch Learning Plan
+Tiny-Megatron PyTorch Learning Plan
 
 目标：仿照 Megatron-LM / Megatron Core 的设计，用 PyTorch 写一个自学版训练框架。范围从单卡 GPT 训练循环开始，逐步加入配置系统、数据管线、分布式数据并行、张量并行、流水并行、混合精度、checkpoint 和测试。
 
